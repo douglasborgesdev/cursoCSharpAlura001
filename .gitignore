@@ -1,0 +1,7 @@
+# Build artefacts
+bin/
+obj/
+
+# User-specific files
+*.DS_Store
+*.sln
